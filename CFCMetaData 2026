@@ -248,7 +248,7 @@
             "name" : "Ryan Day",
             "contractYear" : "1"
           },
-          "name" : "Ohio State Buckeys",
+          "name" : "Ohio State Buckeyes",
           "state" : "Ohio"
         },
         {
@@ -585,7 +585,7 @@
             "name" : "Jake Dickert",
             "contractYear" : "1"
           },
-          "name" : "Wake Forest Deamon Deacons",
+          "name" : "Wake Forest Demon Deacons",
           "state" : "North Carolina"
         },
         {
@@ -673,7 +673,7 @@
             "name" : "Pat Narduzzi",
             "contractYear" : "1"
           },
-          "name" : "Pittburgh Panthers",
+          "name" : "Pittsburgh Panthers",
           "state" : "Pennsylvania"
         }
       ],
@@ -702,7 +702,7 @@
             "name" : "Morgan Scalley",
             "contractYear" : "1"
           },
-          "name" : "Utah Uteps",
+          "name" : "Utah Utes",
           "state" : "Utah"
         },
         {
@@ -790,7 +790,7 @@
             "name" : "Kalani Sitake",
             "contractYear" : "1"
           },
-          "name" : "BYU Cougers",
+          "name" : "BYU Cougars",
           "state" : "Utah"
         },
         {
@@ -929,7 +929,7 @@
             "name" : "Kirby Moore",
             "contractYear" : "1"
           },
-          "name" : "Washington State Cougers",
+          "name" : "Washington State Cougars",
           "state" : "Washington"
         },
         {
@@ -1105,7 +1105,7 @@
             "name" : "Tosh Lupoi",
             "contractYear" : "1"
           },
-          "name" : "California Bears",
+          "name" : "California Golden Bears",
           "state" : "California"
         },
         {
@@ -1127,7 +1127,7 @@
             "name" : "Tavita Pritchard",
             "contractYear" : "1"
           },
-          "name" : "Stanford Cardinals",
+          "name" : "Stanford Cardinal",
           "state" : "California"
         }
       ],
@@ -1156,7 +1156,7 @@
             "name" : "Marcus Freeman",
             "contractYear" : "1"
           },
-          "name" : "Notre Dame Fightin Irish",
+          "name" : "Notre Dame Fighting Irish",
           "state" : "Indiana"
         },
         {
@@ -1266,7 +1266,7 @@
             "name" : "Mike Locksley",
             "contractYear" : "1"
           },
-          "name" : "Maryland Terraphins",
+          "name" : "Maryland Terrapins",
           "state" : "Maryland"
         },
         {
@@ -1405,7 +1405,7 @@
             "name" : "Ryan Beard",
             "contractYear" : "1"
           },
-          "name" : "Coastal Carolina Chanticlears",
+          "name" : "Coastal Carolina Chanticleers",
           "state" : "South Carolina"
         },
         {
@@ -1537,7 +1537,7 @@
             "name" : "Michael Desormeaux",
             "contractYear" : "1"
           },
-          "name" : "Louisiana Lafayette Ragin Cajuns",
+          "name" : "Louisiana Ragin' Cajuns",
           "state" : "Louisiana"
         },
         {
@@ -1632,7 +1632,7 @@
             "name" : "Jay Sawvel",
             "contractYear" : "1"
           },
-          "name" : "Wyoming Stallions",
+          "name" : "Wyoming Cowboys",
           "state" : "Wyoming"
         },
         {
@@ -1720,7 +1720,7 @@
             "name" : "Jeff Choate",
             "contractYear" : "1"
           },
-          "name" : "Nevada Wolfpack",
+          "name" : "Nevada Wolf Pack",
           "state" : "Nevada"
         },
         {
@@ -1837,8 +1837,8 @@
             "name" : "Chuck Martin",
             "contractYear" : "1"
           },
-          "name" : "Miami Redhawks",
-          "state" : "Florida"
+          "name" : "Miami (OH) RedHawks",
+          "state" : "Ohio"
         },
         {
           "abbreviation" : "CM",
@@ -2036,7 +2036,7 @@
             "contractYear" : "1"
           },
           "name" : "Bowling Green Falcons",
-          "state" : "Kentucky"
+          "state" : "Ohio"
         }
       ],
       "confFullName" : "Mid American",
@@ -2064,7 +2064,7 @@
             "name" : "Will Hall",
             "contractYear" : "1"
           },
-          "name" : "Tulane Green Waves",
+          "name" : "Tulane Green Wave",
           "state" : "Louisiana"
         },
         {
@@ -2218,7 +2218,7 @@
             "name" : "Tre Lamb",
             "contractYear" : "1"
           },
-          "name" : "Tulsa Golden Hurricanes",
+          "name" : "Tulsa Golden Hurricane",
           "state" : "Oklahoma"
         },
         {
@@ -2241,7 +2241,7 @@
             "contractYear" : "1"
           },
           "name" : "East Carolina Pirates",
-          "state" : "Michigan"
+          "state" : "North Carolina"
         },
         {
           "abbreviation" : "NT",
@@ -2401,7 +2401,7 @@
             "name" : "Tim Albin",
             "contractYear" : "1"
           },
-          "name" : "Charlotte Forty Niners",
+          "name" : "Charlotte 49ers",
           "state" : "North Carolina"
         },
         {
@@ -2493,7 +2493,7 @@
           "state" : "Ohio"
         }
       ],
-      "confFullName" : "Confence USA",
+      "confFullName" : "Conference USA",
       "confPrestige" : "70",
       "confName" : "CUSA"
     },
@@ -2518,7 +2518,7 @@
             "name" : "Scott Satterfield",
             "contractYear" : "1"
           },
-          "name" : "Cincinatti Bearcats",
+          "name" : "Cincinnati Bearcats",
           "state" : "Ohio"
         },
         {
@@ -2694,7 +2694,7 @@
             "name" : "Clark Lea",
             "contractYear" : "1"
           },
-          "name" : "Vanderbuilt Commodores",
+          "name" : "Vanderbilt Commodores",
           "state" : "Tennessee"
         },
         {
@@ -2726,9 +2726,9 @@
     }
   ],
   "bowlGames" : [
-    "All State Sugar Bowl",
+    "Allstate Sugar Bowl",
     "Rose Bowl",
-    "Playstation Fiesta Bowl",
+    "PlayStation Fiesta Bowl",
     "Peach Bowl",
     "Orange Bowl",
     "Cotton Bowl",
@@ -2738,26 +2738,26 @@
     "Holiday Bowl",
     "Las Vegas Bowl",
     "Camping World Bowl",
-    "CheezIt Bowl",
+    "Cheez-It Bowl",
     "Boca Raton Bowl",
-    "Duke Mayos Bowl",
+    "Duke's Mayo Bowl",
     "Liberty Bowl",
     "Music City Bowl",
     "Texas Bowl",
     "Gator Bowl",
-    "Miltary Bowl",
+    "Military Bowl",
     "Sun Bowl",
-    "independence Bowl",
+    "Independence Bowl",
     "Birmingham Bowl",
     "Cure Bowl",
     "Gasparilla Bowl",
-    "Lendingtree Bowl",
+    "LendingTree Bowl",
     "New Mexico Bowl",
     "Myrtle Beach Bowl",
     "First Responder Bowl",
     "Hawaii Bowl",
     "Pinstripe Bowl",
-    "Camelia Bowl",
+    "Camellia Bowl",
     "Armed Forces Bowl",
     "Bahamas Bowl",
     "Quick Lane Bowl",
