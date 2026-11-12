@@ -1067,7 +1067,7 @@
         {
           "abbreviation" : "TSU",
           "prestige" : "55",
-          "hexColor" : "#513500",
+          "hexColor" : "#501214",
           "rival" : "USA",
           "headCoach" : {
             "contractLength" : "6",
@@ -1162,7 +1162,7 @@
         {
           "abbreviation" : "CON",
           "prestige" : "45",
-          "hexColor" : "#520095",
+          "hexColor" : "#000E2F",
           "rival" : "GT",
           "headCoach" : {
             "contractLength" : "6",
@@ -1228,7 +1228,7 @@
         {
           "abbreviation" : "PUR",
           "prestige" : "80",
-          "hexColor" : "#FF0031",
+          "hexColor" : "#CEB888",
           "rival" : "NMSU",
           "headCoach" : {
             "contractLength" : "6",
@@ -1294,7 +1294,7 @@
         {
           "abbreviation" : "BC",
           "prestige" : "76",
-          "hexColor" : "#000044",
+          "hexColor" : "#98002E",
           "rival" : "DUKE",
           "headCoach" : {
             "contractLength" : "6",
@@ -1953,7 +1953,7 @@
         {
           "abbreviation" : "BALL",
           "prestige" : "65",
-          "hexColor" : "#DCDCDB",
+          "hexColor" : "#BA0C2F",
           "rival" : "MTW",
           "headCoach" : {
             "contractLength" : "6",
@@ -2048,7 +2048,7 @@
         {
           "abbreviation" : "TUL",
           "prestige" : "73",
-          "hexColor" : "#00DDFC",
+          "hexColor" : "#006747",
           "rival" : "LIB",
           "headCoach" : {
             "contractLength" : "6",
