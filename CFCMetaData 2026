@@ -957,7 +957,7 @@
         {
           "abbreviation" : "FRST",
           "prestige" : "70",
-          "hexColor" : "#0006AA",
+          "hexColor" : "#DB0032",
           "rival" : "BSU",
           "headCoach" : {
             "contractLength" : "6",
@@ -1411,7 +1411,7 @@
         {
           "abbreviation" : "USA",
           "prestige" : "73",
-          "hexColor" : "#FF1C24",
+          "hexColor" : "#00205B",
           "rival" : "TSU",
           "headCoach" : {
             "contractLength" : "6",
@@ -1682,7 +1682,7 @@
         {
           "abbreviation" : "SJSU",
           "prestige" : "55",
-          "hexColor" : "#FFAA00",
+          "hexColor" : "#0055A2",
           "rival" : "NEV",
           "headCoach" : {
             "contractLength" : "6",
@@ -1792,7 +1792,7 @@
         {
           "abbreviation" : "ARI",
           "prestige" : "81",
-          "hexColor" : "#00002C",
+          "hexColor" : "#CC0033",
           "rival" : "ASU",
           "headCoach" : {
             "contractLength" : "6",
@@ -2319,7 +2319,7 @@
         {
           "abbreviation" : "FIU",
           "prestige" : "55",
-          "hexColor" : "#E3BC85",
+          "hexColor" : "#081E3F",
           "rival" : "USM",
           "headCoach" : {
             "contractLength" : "6",
